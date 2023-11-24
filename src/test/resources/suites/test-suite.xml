@@ -1,0 +1,8 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="selenium-sample-trendyol-ui-test" configfailurepolicy="continue">
+    <test name="selenium-sample-trendyol-ui-test">
+        <classes>
+            <class name="TrendyTests"></class>
+        </classes>
+    </test>
+</suite>
